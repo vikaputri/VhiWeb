@@ -20,11 +20,12 @@ React Js
 
 Bootstrap
 
-Apollo
 
 ## Run
 Vhiweb dapat diakses melalui link [https://vhi-web.vercel.app/](https://vhi-web.vercel.app/) dengan memasukkan
+
 email : eve.holt@reqres.in dan 
+
 password : cityslicka
 
 ## User Interface
