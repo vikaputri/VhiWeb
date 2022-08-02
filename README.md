@@ -24,9 +24,9 @@ Bootstrap
 ## Run
 Vhiweb dapat diakses melalui link [https://vhi-web.vercel.app/](https://vhi-web.vercel.app/) dengan memasukkan
 
-email : eve.holt@reqres.in dan 
+email       : eve.holt@reqres.in
 
-password : cityslicka
+password    : cityslicka
 
 ## User Interface
 ### Login 
@@ -39,4 +39,4 @@ password : cityslicka
 
 ### User Detail
 
-![User Detail](hhttps://raw.githubusercontent.com/vikaputri/VhiWeb/master/Output/User%20Detail.png)
+![User Detail](https://raw.githubusercontent.com/vikaputri/VhiWeb/master/Output/User%20Detail.png)
