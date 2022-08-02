@@ -1,5 +1,5 @@
 import { BrowserRouter as Router, Switch, Route} from "react-router-dom";
-import Footer from "./components/Footer";
+import Footer from "./containers/Footer";
 import Login from "./containers/Login";
 import UserList from "./containers/UserList";
 import UserDetail from "./containers/UserDetail";
